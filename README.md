@@ -1,5 +1,4 @@
-# newsletterr
-//explanation
+
 // app.post() is like a function that listens for a specific type of request, which in this case is a POST request to the root URL ("/"). When someone submits a form on the website, this function is triggered.
 
 // Inside the app.post() function, the submitted form data is extracted and stored in variables. The form likely asks for a first name, last name, and email address. The code takes those values and saves them in separate variables for further use.
